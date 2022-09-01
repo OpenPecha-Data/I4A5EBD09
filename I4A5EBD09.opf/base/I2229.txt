@@ -1,59 +1,50 @@
 ༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
 Text Scan Input Form - Title Page
-TBRC Volume Number
-TBRC Work Number (W)
-Title
-2229
+TBRC Volume Number 2229
 22183
-ཟངས་དཀར་བླ་མའི་རྣམ་ཐར་
-120
-lani
-Lamas of Zans-dkar : a collection of manuscript material about
-the lives of Kun-dga-chos-legs, Bla-ma Kar-ma, and Grub-dban
+TBRC Work Number (W )
+Title
+ ཟངས་དཀར་བླ་མའི་རྣམ་ཐར་
+Lamas 120
+ of Zans-dkar : a collection of lanimanuscript material about
+the lives of Kun-dga -chos-legs, Bla-ma Kar-ma, and Grub-dban
 Nag-dban-tshe-rin
 Author
-Descriptor
-the Dzongkhul
-Reproduced from rare manuscripts from
+Descriptor Reproduced from rare manuscripts from the Dzongkhul
 Monastery in Zanskar
 Original Publication
 Place
-Kawring, P.O. Gemur, Distt. Lahul, H.P.
-Publisher
-Tobden Tsering
-Date
-1985
+ Kawring, P.O. Gemur, Distt. Lahul, H.P.
+Publisher Tobden Tsering
+Date 1985
 Total Volumes
 Current Volume (of Total)
 Number of TBRC Introductory Pages
 Number of Introductory Pages
-Number of Text Pages
-TBRC Scanning Information
-356
-Scanned at the Tibetan Buddhist Resource Center, 117 Rindge
+Number of Text Pages 356
+TBRC Scanning Information Scanned at the Tibetan Buddhist Resource Center, 117 Rindge
 Ave., Cambridge, MA 02140, USA
 2002
 
-
-
 Lanas of Zans-dkar : a collection of manuscript material about the lives of...
 LC Control Number: 86900145
-Type of Material: Book (Print, Microform, Electronic, etc.)
+Type of Material: Book (Print, Microform , Electronic, etc.)
 Main Title: Lamas of Zans-dkar : a collection of manuscript material about
 the lives of Kun-dga'-chos-legs, Bla-ma Kar-ma, and Grub-dban
 Nag-dban-tshe-rin.
 Published/Created: Gemur, Distt. Lahul, H.P. : Tooden Tsering, 1985.
-Description: 356 p. ; 8 x 38 cm.
-Notes: In Tibetan.
+Description: 356 p. ; 8 x 38 cm .
+Notes: In Tibetan .
 "Reproduced from rare manuscripts from the Dzongkhul
 Monastery in Zanskar."
 Subjects: Kun-dga-chos-legs.
 Kar-ma. Bla-ma.
-Nag-dbar-tshe-rin, Khrul-'zig, 1717-1794.
-Lamas--India--Zanskar--Biography.
-Lama --China--Tibet--Biography.
-LC Classification: BQ7920.L36 1985
+Nag-dbar-tshe-rin , Khrul-'zig, 1717- 1794.
+Lamas-- India--Zanskar--Biography.
+w
+Lama --China-- Tibet--Biography.
+LC Classification: BQ7920 .L36 1985
 Overseas Acq. No.: 1 Tib 2940
 Geog. Area Code: a-jj--- a-ce-ti
-w
 im
+
